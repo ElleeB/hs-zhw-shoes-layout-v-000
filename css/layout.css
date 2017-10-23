@@ -24,19 +24,16 @@
 
 div .col-1 {
   float: left;
-  display: table-cell;
 }
 
 div .col-2 {
   width: 66%;
   float: left;
-  display: table-cell;
 }
 
 div .col-3 {
   width: 32%;
   float: left;
-  display: table-cell;
 }
 
 [class*="col-"] {
@@ -46,3 +43,5 @@ div .col-3 {
 #first {
   margin: 2% 0% 0% 0%;
 }
+
+
