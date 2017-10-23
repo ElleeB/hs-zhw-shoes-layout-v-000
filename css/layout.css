@@ -36,7 +36,7 @@ div .col-3 {
   float: left;
 }
 
-[class*="col-3"] {
+[class*="col-"] {
   margin: 2% 0 0 2%;
 }
 
