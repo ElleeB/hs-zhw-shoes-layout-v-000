@@ -21,3 +21,11 @@
 .clear {
   clear: both;
 }
+
+.col-1 { 
+  width: 100%;
+}
+
+.col-2 {
+  
+}
