@@ -36,10 +36,10 @@ div .col-3 {
   float: left;
 }
 
-[class*="col-"] {
-  margin-left: 2% 0 0 2%;
+[class*="col-3"] {
+  margin-left: 2%;
 }
 
 #first {
-  margin: 0%;
+  margin-left: 0%;
 }
