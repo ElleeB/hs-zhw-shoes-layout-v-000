@@ -24,15 +24,12 @@
 
 div .col-1 {
   width: 100%;
-  display: inline;
 }
 
 div .col-2 {
   width: 66.66%;
-  display: inline;
 }
 
 div .col-3 {
   width: 33.33%;
-  display: inline;
 }
