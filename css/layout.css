@@ -29,7 +29,7 @@ div .col-1 {
 
 div .col-2 {
   width: 66.66%;
-  float: auto;
+  float: left;
 }
 
 div .col-3 {
