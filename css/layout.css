@@ -22,10 +22,14 @@
   clear: both;
 }
 
-.col-1 { 
+.col-1 {
   width: 100%;
 }
 
 .col-2 {
-  widt: 75%;
+  width: 66.66%;
+}
+
+.col-3 {
+  width: 33.33%;
 }
