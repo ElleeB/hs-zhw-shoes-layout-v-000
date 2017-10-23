@@ -33,7 +33,6 @@ div .col-2 {
 
 div .col-3 {
   width: 32%;
-  float: left;
 }
 
 [class*="col-"] {
