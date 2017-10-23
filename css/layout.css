@@ -37,9 +37,9 @@ div .col-3 {
 }
 
 [class*="col-"] {
-  margin-left: 2% 0 0 2%;
+  margin-left: 2% 0% 0% 2%;
 }
 
 #first {
-  margin-left: 0%;
+  margin-left: 2% 0% 0% 0%;
 }
